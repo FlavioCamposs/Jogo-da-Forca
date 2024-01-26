@@ -20,4 +20,4 @@ Você terá 6 chances para adivinhar a palavra relacionada ao tema escolhido.
 Chute letras para completar as linhas da palavra oculta.
 Ganhe acertando todas as letras ou perca ao exceder o número máximo de tentativas.
 
-## **Bom jogo!**
+### **Bom jogo!**
