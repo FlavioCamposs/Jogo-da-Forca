@@ -35,12 +35,12 @@ Para cada escolha de tema, há um bloco de código correspondente que define uma
     
 Lógica do Jogo da Forca:
 Para cada tema, há um código semelhante que inclui:
-Seleção aleatória de uma palavra oculta do tema.
-Inicialização da palavra oculta com espaços em branco.
-Loop principal para as tentativas do jogador.
-Verificação de acertos e erros.
-Exibição da palavra oculta atualizada.
-Mensagem de vitória ou derrota no final.
+- Seleção aleatória de uma palavra oculta do tema.
+- Inicialização da palavra oculta com espaços em branco.
+- Loop principal para as tentativas do jogador.
+- Verificação de acertos e erros.
+- Exibição da palavra oculta atualizada.
+- Mensagem de vitória ou derrota no final.
+    
 Visualização Colorida no Terminal:
-
 O uso de códigos de escape ANSI (por exemplo, \033[1;92m) é para adicionar cor ao texto no terminal. Isso é comumente usado para dar destaque às mensagens de saída.
