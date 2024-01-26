@@ -1,7 +1,7 @@
 # Jogo da Forca
 ## **Bem-vindo ao Jogo da Forca! Este é um jogo simples de forca em Python. Siga as instruções abaixo para jogar:**
 
-## Como Jogar:
+### Como Jogar:
 - Execute o código em um ambiente Python.
 - Informe o seu nome quando solicitado.
 - Escolha um tema digitando o número correspondente:
